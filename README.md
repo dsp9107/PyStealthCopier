@@ -1,5 +1,23 @@
 # PyStealthCopier
 
+This program is made for people who'd wanna automate the copy-paste process when copying necessary documents on a usb drive and then need to paste them onto multiple systems. Human effort has been efficiently halved :D
+
+#### Before
+
+- copy files onto usb drive
+- plug into host computer
+- open usb drive
+- select files
+- open desired folder
+- paste files
+
+#### Now
+
+- select files needed
+- plug into host computer
+- open usb drive
+- run `copy.bat`
+
 ### Requirements
 - Windows Environment
 - Python 3.7.3 +
