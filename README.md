@@ -19,12 +19,19 @@ This program is made for people who'd wanna automate the copy-paste process when
 - run `copy.bat`
 
 ### Requirements
+
+#### To Create StealthCopier
+
 - Windows Environment
 - Python 3.7.3 +
 
 And the python packages :
 - tkinter
 - os
+
+#### To Run StealthCopier
+
+- Windows Environment
 
 ### Usage
 Follow these instructions to make a usb stealthcopier :
